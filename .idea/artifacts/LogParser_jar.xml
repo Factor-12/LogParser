@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LogParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LogParser_jar</output-path>
+    <root id="archive" name="LogParser.jar">
+      <element id="module-output" name="LogParser" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/sqljdbc_8.2/rus/mssql-jdbc-8.2.2.jre8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
